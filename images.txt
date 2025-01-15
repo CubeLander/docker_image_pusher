@@ -7,3 +7,4 @@ xhofe/alist:latest
 hello-world
 ubuntu
 --platform=arm64 ubuntu
+--platform=arm64 alpine
